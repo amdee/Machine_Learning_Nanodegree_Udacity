@@ -43,7 +43,7 @@ Instructional Tools Available: Video lectures, personalized project reviews, ded
 
 ---
 
-### [Titanic Survival Exploration](Machine_Learning_Nanodegree_Udacity/Titanic Survival Exploration/)
+### [Titanic Survival Exploration](https://github.com/amdee/Machine_Learning_Nanodegree_Udacity/tree/master/Titanic Survival Exploration)
 
 <details>
   <summary>View Details</summary>
