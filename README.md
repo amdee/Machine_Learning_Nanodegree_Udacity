@@ -43,7 +43,7 @@ Instructional Tools Available: Video lectures, personalized project reviews, ded
 
 ---
 
-### [Titanic Survival Exploration](Titanic Survival Exploration)
+### [Titanic Survival Exploration](/Titanic Survival Exploration/)
 
 <details>
   <summary>View Details</summary>
